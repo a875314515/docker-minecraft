@@ -15,3 +15,5 @@ FROM   ubuntu:14.04
 
 # /start runs it.
 CMD    ["/bin/bash"]
+
+EXPOSE 9998
